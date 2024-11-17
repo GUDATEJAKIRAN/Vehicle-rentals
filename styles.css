@@ -1,0 +1,36 @@
+
+.d1{
+    background-image: url(./csekiran1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.d2{
+    position: relative;
+    z-index: 4;
+    margin-top: -110vh;
+    font-size: 1.5rem;
+    padding-left: 930px;
+    padding-top: 18px;
+    background-color: rgba(0, 0, 0, 0.925);
+
+
+}
+.d2 ul{
+    list-style-type: none;
+    display: flex;
+    padding: 10px;
+}
+.d2 ul li{
+    margin: 10px;
+}
+.d2 ul li a{
+    text-decoration: none;
+    color:white;
+}
+.d2 ul li a:hover{
+    color: orangered;
+}
+
+
+
